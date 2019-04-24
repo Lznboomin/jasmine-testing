@@ -1,0 +1,4 @@
+// Contact objekt
+function Contact() {
+
+}
